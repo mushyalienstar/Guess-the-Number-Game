@@ -6,7 +6,3 @@ To change the level (the parameters of the randomly generated number), click the
 
 To play again on the same level, click the Again! button in the top left under the levels button.
 
-
-Made this game to become more comfortable coding in Javascript.
-
-
