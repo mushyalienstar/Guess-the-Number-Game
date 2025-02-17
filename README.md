@@ -1,9 +1,12 @@
 # Guess-the-Number-Game-
 
-A simple game where you have to guess the randomely generated number.
-To change the level (the parameters of the randomely generated number), just click the levels button in the top left and then select which level you would like to play!
-To play again in the same level, just click the Again! button in the top left under the levels button.
+It's a simple game where you have to guess the randomly generated number.
 
-Made this to become more comfortable coding in Javascript.
+To change the level (the parameters of the randomly generated number), click the levels button in the top left and then select which level you would like to play!
+
+To play again on the same level, click the Again! button in the top left under the levels button.
+
+
+Made this game to become more comfortable coding in Javascript.
 
 
