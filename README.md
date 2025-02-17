@@ -1,4 +1,4 @@
-# Guess-the-Number-Game-
+# Guess-the-Number-Game
 
 It's a simple game where you have to guess the randomly generated number.
 
